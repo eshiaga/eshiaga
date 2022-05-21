@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eshiaga
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning and Data Science
 - 🌱 I’m currently learning Business Analytics from Indian School of Business
 - 💞️ I’m looking to collaborate on solving business problems using AI/ML. 
 - 📫 How to reach me ...
